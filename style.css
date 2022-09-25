@@ -1,0 +1,35 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap");
+
+body {
+  margin: 0;
+}
+#section-1 {
+  background-image: url("./imgs/lubo-minar-B-gb_8fgmz8-unsplash.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  padding: 30px;
+}
+.title {
+  color: white;
+  font-size: 4rem;
+}
+* {
+  overflow: hidden;
+  font-family: "Major Mono Display", monospace;
+}
+.shallow {
+  background-color: white;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.399);
+  color: black;
+  border-left: 3px solid rgb(255, 208, 0);
+  padding: 4px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+a {
+  color: white;
+  font-size: 4rem;
+} */

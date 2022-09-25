@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <canvas id="canvas3d"></canvas>
+    <a href="./page2.html" class="explore-button">explore</a>
+    <a href="./references.html" class="references-button">references</a>
+
+    <script
+      async
+      src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"
+    ></script>
+    <script type="importmap">
+      {
+        "imports": {
+          "@splinetool/runtime": "https://unpkg.com/@splinetool/runtime@0.9.109/build/runtime.js"
+        }
+      }
+    </script>
+    <script type="module" src="./src/main.js"></script>
+    <script src="//unpkg.com/d3-array"></script>
+    <script src="//unpkg.com/d3-scale"></script>
+  </body>
+</html>

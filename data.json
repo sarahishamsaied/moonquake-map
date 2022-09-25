@@ -1,0 +1,1061 @@
+[
+  {
+    "type": "deep",
+    "name": 1,
+    "lat": -15.7,
+    "lon": -36.6,
+    "occurances": 441
+  },
+  {
+    "type": "deep",
+    "name": 3,
+    "lat": -2.9,
+    "lon": -50.3,
+    "occurances": 42
+  },
+  {
+    "type": "deep",
+    "name": 5,
+    "lat": 1.1,
+    "lon": -44.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 6,
+    "lat": 43.5,
+    "lon": 55.5,
+
+    "occurances": 178
+  },
+  {
+    "type": "deep",
+    "name": 7,
+    "lat": 25,
+    "lon": 53.2,
+    "occurances": 85
+  },
+  {
+    "type": "deep",
+    "name": 8,
+    "lat": -23.7,
+    "lon": -35.5,
+
+    "occurances": 327
+  },
+  {
+    "type": "deep",
+    "name": 9,
+    "lat": -6,
+    "lon": -19.7,
+
+    "occurances": 145
+  },
+  {
+    "type": "deep",
+    "name": 10,
+    "lat": -35.7,
+    "lon": -40.3,
+
+    "occurances": 230
+  },
+  {
+    "type": "deep",
+    "name": 11,
+    "lat": 9.2,
+    "lon": 17.5,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 13,
+    "lat": -19.1,
+    "lon": -41.7,
+
+    "occurances": 57
+  },
+  {
+    "type": "deep",
+    "name": 14,
+    "lat": -29.6,
+    "lon": -44.4,
+
+    "occurances": 165
+  },
+  {
+    "type": "deep",
+    "name": 15,
+    "lat": 0.7,
+    "lon": -3.9,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 16,
+    "lat": 7.5,
+    "lon": 6.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 17,
+    "lat": 25.5,
+    "lon": -21.9,
+    "occurances": 49
+  },
+  {
+    "type": "deep",
+    "name": 18,
+    "lat": 23.3,
+    "lon": 32.7,
+
+    "occurances": 214
+  },
+  {
+    "type": "deep",
+    "name": 19,
+    "lat": 27.7,
+    "lon": 34.4,
+
+    "occurances": 45
+  },
+  {
+    "type": "deep",
+    "name": 20,
+    "lat": 23.7,
+    "lon": -31.4,
+
+    "occurances": 153
+  },
+  {
+    "type": "deep",
+    "name": 21,
+    "lat": -18.2,
+    "lon": -50.8,
+
+    "occurances": 69
+  },
+  {
+    "type": "deep",
+    "name": 22,
+    "lat": 21.6,
+    "lon": 43.6,
+
+    "occurances": 48
+  },
+  {
+    "type": "deep",
+    "name": 25,
+    "lat": 35.1,
+    "lon": 59.8,
+
+    "occurances": 72
+  },
+  {
+    "type": "deep",
+    "name": 26,
+    "lat": 14.3,
+    "lon": 5.2,
+
+    "occurances": 54
+  },
+  {
+    "type": "deep",
+    "name": 27,
+    "lat": 23,
+    "lon": 20.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 28,
+    "lat": 8.1,
+    "lon": 10.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 29,
+    "lat": 53.4,
+    "lon": 60.9,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 30,
+    "lat": 12.7,
+    "lon": -35.7,
+
+    "occurances": 45
+  },
+  {
+    "type": "deep",
+    "name": 32,
+    "lat": 25,
+    "lon": 43.6,
+
+    "occurances": 35
+  },
+  {
+    "type": "deep",
+    "name": 33,
+    "lat": 5.1,
+    "lon": 115.8,
+
+    "occurances": 57
+  },
+  {
+    "type": "deep",
+    "name": 34,
+    "lat": 6.8,
+    "lon": -7.2,
+
+    "occurances": 39
+  },
+  {
+    "type": "deep",
+    "name": 35,
+    "lat": 5,
+    "lon": 36.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 36,
+    "lat": 27.5,
+    "lon": -4.6,
+
+    "occurances": 43
+  },
+  {
+    "type": "deep",
+    "name": 37,
+    "lat": 22.5,
+    "lon": 29.7,
+
+    "occurances": 46
+  },
+  {
+    "type": "deep",
+    "name": 38,
+    "lat": 7.8,
+    "lon": 43.3,
+
+    "occurances": 41
+  },
+  {
+    "type": "deep",
+    "name": 39,
+    "lat": -21.9,
+    "lon": -12.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 40,
+    "lat": -1.3,
+    "lon": -10.3,
+
+    "occurances": 35
+  },
+  {
+    "type": "deep",
+    "name": 41,
+    "lat": 13.8,
+    "lon": -29.2,
+
+    "occurances": 44
+  },
+  {
+    "type": "deep",
+    "name": 42,
+    "lat": 22.2,
+    "lon": -50.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 44,
+    "lat": 50.2,
+    "lon": 60.2,
+
+    "occurances": 86
+  },
+  {
+    "type": "deep",
+    "name": 49,
+    "lat": 8.6,
+    "lon": -50.8,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 50,
+    "lat": 8.7,
+    "lon": -53.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 51,
+    "lat": 12.3,
+    "lon": 37.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 53,
+    "lat": -10.1,
+    "lon": -39.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 54,
+    "lat": 13.1,
+    "lon": -52.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 56,
+    "lat": 1.1,
+    "lon": -20.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 59,
+    "lat": -9.5,
+    "lon": -53.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 60,
+    "lat": 24.1,
+    "lon": -52.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 64,
+    "lat": 30.1,
+    "lon": 53.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 65,
+    "lat": 46.6,
+    "lon": 42.3,
+
+    "occurances": 35
+  },
+  {
+    "type": "deep",
+    "name": 70,
+    "lat": 34.8,
+    "lon": 63,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 71,
+    "lat": -20.9,
+    "lon": -16.8,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 73,
+    "lat": 21.1,
+    "lon": -44,
+
+    "occurances": 36
+  },
+  {
+    "type": "deep",
+    "name": 74,
+    "lat": 34.7,
+    "lon": 60.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 77,
+    "lat": 24.6,
+    "lon": -23.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 82,
+    "lat": 27.5,
+    "lon": 34.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 86,
+    "lat": -40.9,
+    "lon": -40.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 96,
+    "lat": 6.2,
+    "lon": 11.9,
+
+    "occurances": 36
+  },
+  {
+    "type": "deep",
+    "name": 97,
+    "lat": -8.4,
+    "lon": 17.9,
+
+    "occurances": 44
+  },
+  {
+    "type": "deep",
+    "name": 99,
+    "lat": 10,
+    "lon": 22.8,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 100,
+    "lat": -2,
+    "lon": 32.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 107,
+    "lat": 41,
+    "lon": 53.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 114,
+    "lat": 15.5,
+    "lon": 55.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 201,
+    "lat": -40.6,
+    "lon": -3.8,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 202,
+    "lat": 1,
+    "lon": 2.8,
+
+    "occurances": 36
+  },
+  {
+    "type": "deep",
+    "name": 203,
+    "lat": 0.5,
+    "lon": 47.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 204,
+    "lat": -28.4,
+    "lon": -66.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 209,
+    "lat": -26.5,
+    "lon": -35.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 212,
+    "lat": 12.8,
+    "lon": -36.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 216,
+    "lat": -13.7,
+    "lon": -21.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 218,
+    "lat": -2.4,
+    "lon": -73.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 223,
+    "lat": 36.1,
+    "lon": -2.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 224,
+    "lat": -50.7,
+    "lon": -21.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 230,
+    "lat": 6.3,
+    "lon": 22.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 231,
+    "lat": 34.3,
+    "lon": 45,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 233,
+    "lat": 24.1,
+    "lon": 26.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 234,
+    "lat": 36.8,
+    "lon": 21.2,
+
+    "occurances": 44
+  },
+  {
+    "type": "deep",
+    "name": 236,
+    "lat": -7.8,
+    "lon": 5.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 237,
+    "lat": 12.2,
+    "lon": 3.5,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 238,
+    "lat": 26.3,
+    "lon": 20,
+
+    "occurances": 36
+  },
+  {
+    "type": "deep",
+    "name": 239,
+    "lat": 26.7,
+    "lon": 5.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 241,
+    "lat": -69.4,
+    "lon": 75.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 242,
+    "lat": 58.6,
+    "lon": 54.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 243,
+    "lat": 7,
+    "lon": 8.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 244,
+    "lat": 34.6,
+    "lon": 56.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 245,
+    "lat": 8.6,
+    "lon": 73,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 246,
+    "lat": 19.4,
+    "lon": 24.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 248,
+    "lat": 5.3,
+    "lon": 3.6,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 249,
+    "lat": -3.4,
+    "lon": 12.5,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 250,
+    "lat": -3.6,
+    "lon": 21.5,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 251,
+    "lat": -46.5,
+    "lon": 38.9,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 255,
+    "lat": 1.4,
+    "lon": 15,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 257,
+    "lat": 35,
+    "lon": 19.1,
+
+    "occurances": 45
+  },
+  {
+    "type": "deep",
+    "name": 258,
+    "lat": -7.1,
+    "lon": 15.3,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 259,
+    "lat": 3.4,
+    "lon": 2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 260,
+    "lat": -1.7,
+    "lon": 18,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 267,
+    "lat": -7.6,
+    "lon": 36.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 271,
+    "lat": 53.8,
+    "lon": 35.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 272,
+    "lat": -50,
+    "lon": 53.2,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 276,
+    "lat": -3.7,
+    "lon": -33.9,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 279,
+    "lat": 4.4,
+    "lon": -4.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 280,
+    "lat": 2.4,
+    "lon": 46.1,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 281,
+    "lat": -53.2,
+    "lon": -54.4,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 282,
+    "lat": 15.5,
+    "lon": 97,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 283,
+    "lat": 7.1,
+    "lon": 22.5,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 285,
+    "lat": 42.9,
+    "lon": 110.9,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 286,
+    "lat": 54.2,
+    "lon": 56.5,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 287,
+    "lat": 24.8,
+    "lon": 35.7,
+
+    "occurances": 50
+  },
+  {
+    "type": "deep",
+    "name": 290,
+    "lat": 10.6,
+    "lon": 6.4,
+    "occurances": 50
+  },
+  {
+    "occurances": 50,
+    "date": "1971/04/17",
+    "lat": 48,
+    "lon": 35,
+    "mag": 2.8,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1971/05/20",
+    "lat": 42,
+    "lon": -24,
+    "mag": 2,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1971/07/11",
+    "lat": 43,
+    "lon": -47,
+    "mag": 1.9,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1972/01/02",
+    "lat": 54,
+    "lon": 101,
+    "mag": 1.9,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1972/09/17",
+    "lat": 12,
+    "lon": 46,
+    "mag": 1,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1972/12/06",
+    "lat": 51,
+    "lon": 45,
+    "mag": 1.4,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1972/12/09",
+    "lat": -20,
+    "lon": -80,
+    "mag": 1.2,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1973/02/08",
+    "lat": 33,
+    "lon": 35,
+    "mag": 0.8,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1973/03/13",
+    "lat": -84,
+    "lon": -134,
+    "mag": 3.2,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1973/06/20",
+    "lat": -1,
+    "lon": -71,
+    "mag": 2.2,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1973/10/01",
+    "lat": -37,
+    "lon": -29,
+    "mag": 1.1,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1974/02/23",
+    "lat": 36,
+    "lon": -16,
+    "mag": 0.7,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1974/03/27",
+    "lat": -48,
+    "lon": -106,
+    "mag": 1.6,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1974/04/19",
+    "lat": -37,
+    "lon": 42,
+    "mag": 0.9,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1974/07/11",
+    "lat": 21,
+    "lon": 88,
+    "mag": 2.7,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/01/03",
+    "lat": 29,
+    "lon": -98,
+    "mag": 3.2,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/01/12",
+    "lat": 75,
+    "lon": 40,
+    "mag": 1.7,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/01/13",
+    "lat": -2,
+    "lon": -51,
+    "mag": 1.1,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/02/13",
+    "lat": -19,
+    "lon": -26,
+    "mag": 1.4,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/05/07",
+    "lat": -49,
+    "lon": -45,
+    "mag": 1.3,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/05/27",
+    "lat": 3,
+    "lon": -58,
+    "mag": 1.4,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1975/11/10",
+    "lat": -8,
+    "lon": 64,
+    "mag": 1.8,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1976/01/04",
+    "lat": 50,
+    "lon": 30,
+    "mag": 1.8,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1976/01/12",
+    "lat": 38,
+    "lon": 44,
+    "mag": 1.1,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1976/03/06",
+    "lat": 50,
+    "lon": -20,
+    "mag": 2.3,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1976/03/08",
+    "lat": -19,
+    "lon": -12,
+    "mag": 1.8,
+    "type": "shallow"
+  },
+  {
+    "occurances": 50,
+    "date": "1976/05/16",
+    "lat": 77,
+    "lon": -10,
+    "mag": 1.5,
+    "type": "shallow"
+  }
+]
